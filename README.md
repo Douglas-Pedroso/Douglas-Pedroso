@@ -43,4 +43,10 @@
 <p align="center">
   ## 📊 Progress
   <br>
-  HTML: ▓▓▓▓▓▓▓▓ 1
+  HTML: <span style="color:#E34F26">▓▓▓▓▓▓▓▓▓▓ 100%</span><br>
+  CSS: <span style="color:#1572B6">▓▓▓▓▓▓▓▓▓▓ 100%</span><br>
+  JavaScript: <span style="color:#F7DF1E">▓▓▓▓▓▓▓░░░ 75%</span><br>
+  C#: <span style="color:#239120">▓▓▓▓▓▓░░░░ 70%</span><br>
+  SQL: <span style="color:#00758F">▓▓▓▓▓▓░░░░ 70%</span><br>
+  React: <span style="color:#61DAFB">▓▓▓▓░░░░░░ 40%</span>
+</p>
