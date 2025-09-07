@@ -41,29 +41,19 @@
 ---
 
 <p align="center">
-  ## 📊 Painel de Estatísticas
+  ## 📊 Dashboard
 </p>
 
 <p align="center">
   <table>
     <tr>
       <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>📈 Estatísticas do GitHub</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+        <h4>GitHub Stats</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
       <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>💻 Linguagens mais usadas</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>🏆 Troféus do GitHub</h4>
-        <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Troféus" />
-      </td>
-      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>🔥 Sequência de Commits</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Pedroso&theme=radical" alt="Sequência de Commits" />
+        <h4>Top Languages</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
