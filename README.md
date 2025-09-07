@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>👋 Olá, me chamo Douglas</h1>
-  <p>Seja bem-vindo ao meu perfil!</p>
+  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
+  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -41,11 +41,14 @@
 ---
 
 <p align="center">
-  ## 📊 Estatísticas do GitHub
+  ## 📊 Estatísticas
   <br>
-  ![Douglas-Pedroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical)
+  <!-- Estatísticas gerais do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
-  ![Douglas-Pedroso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical)
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
-  ![Douglas-Pedroso's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical)
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Trophies" />
 </p>
