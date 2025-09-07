@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou Douglas!
 
 🌐 Confira meu portfolio: [Portfolio](https://douglas-pedroso.github.io/Portfolio/)
 
