@@ -1,8 +1,6 @@
 <p>
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold; color:#FF6F00;">Douglas Pedroso</h1>
-  <p style="font-family: 'Segoe UI', sans-serif; font-size:16px; color:#333;">Bem-vindo ao meu perfil do GitHub. Para mais detalhes, acesse o meu <a href= https://douglas-pedroso.github.io/Portfolio/>Portifólio.</a>  <p align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold; color:#FF6F00;">Douglas Pedroso</h1>
-  <p style="font-family: 'Segoe UI', sans-serif; font-size:16px; color:#333;">Bem-vindo ao meu perfil do GitHub.</p>
+  <p style="font-family: 'Segoe UI', sans-serif; font-size:16px; color:#333;">Bem-vindo ao meu perfil do GitHub. Para mais detalhes acesse o meu <a href= https://douglas-pedroso.github.io/Portfolio/>Portifólio.</a>  <p align="center">
 </p>
 
 ---
