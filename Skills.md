@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou Douglas!
 
-💻 Aspirante a Desenvolvedor Full Stack  
 🌐 Confira meu portfolio: [Portfolio](https://douglas-pedroso.github.io/Portfolio/)
 
 ---
@@ -23,10 +22,3 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
----
-
-## 🖼️ Imagens / Destaque Visual
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKx9y3C9TkR3j4g/giphy.gif" alt="React GIF" width="200"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Code GIF" width="200"/>
-</p>
