@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>👋 Olá, me chamo Douglas</h1>
-  <p>Seja bem-vindo ao meu perfil!</p>
+  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
+  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -47,22 +47,22 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center">
-        <h4>GitHub Stats</h4>
+      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
+        <h4>📈 GitHub Stats</h4>
         <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
-      <td align="center">
-        <h4>Top Languages</h4>
+      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
+        <h4>💻 Top Languages</h4>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <h4>GitHub Trophy</h4>
+      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
+        <h4>🏆 GitHub Trophy</h4>
         <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Trophies" />
       </td>
-      <td align="center">
-        <h4>Activity Graph</h4>
+      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
+        <h4>📅 Activity Graph</h4>
         <img src="https://activity-graph.herokuapp.com/graph?username=Douglas-Pedroso&theme=react-dark" alt="Activity Graph" />
       </td>
     </tr>
@@ -72,11 +72,9 @@
 ---
 
 <p align="center">
-  ## 🏆 Conquistas & Visitantes
+  ## 🏅 Conquistas & Visitantes
   <br>
-  <!-- GitHub Streak -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Pedroso&theme=radical)
   <br><br>
-  <!-- Visitor Badge -->
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Douglas-Pedroso)
 </p>
