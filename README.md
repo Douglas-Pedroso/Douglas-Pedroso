@@ -62,19 +62,9 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Trophies" />
       </td>
       <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>📅 Activity Graph</h4>
-        <img src="https://activity-graph.herokuapp.com/graph?username=Douglas-Pedroso&theme=react-dark" alt="Activity Graph" />
+        <h4>🔥 GitHub Streak</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Pedroso&theme=radical" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-</p>
-
----
-
-<p align="center">
-  ## 🏅 Conquistas & Visitantes
-  <br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Pedroso&theme=radical)
-  <br><br>
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Douglas-Pedroso)
 </p>
