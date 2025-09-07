@@ -8,7 +8,7 @@
 <div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#FFF8F0; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#FF6F00; font-weight:bold;">Contato</h2>
   <p>
-    <a href="https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/douglas-pedroso-pires-barros-8329b337b/">
+    <a href="https://www.linkedin.com/in/douglas-pedroso-pires-barros-8329b337b/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://douglas-pedroso.github.io/Portfolio/">
@@ -16,6 +16,7 @@
     </a>
   </p>
 </div>
+
 
 <div style="border:2px solid #4CAF50; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0FFF4; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#4CAF50; font-weight:bold;">Habilidades</h2>
