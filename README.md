@@ -53,3 +53,19 @@
     </tr>
   </table>
 </div>
+
+<div style="border:2px solid #4CAF50; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0FFF4; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <h2 style="color:#4CAF50; font-weight:bold;">Certificações e Cursos</h2>
+  <p align="center">
+    <!-- Certificados já obtidos -->
+    <img src="https://img.shields.io/badge/SQL-Certificado-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="Certificado SQL"/>
+    <img src="https://img.shields.io/badge/C%23-Certificado-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Certificado C#"/>
+    <img src="https://img.shields.io/badge/Introdução%20à%20Engenharia%20de%20Software-Certificado-FF6F00?style=for-the-badge" alt="Engenharia de Software"/>
+    <img src="https://img.shields.io/badge/Introdução%20à%20Computação%20em%20Nuvem-Certificado-007ACC?style=for-the-badge" alt="Computação em Nuvem"/>
+    <img src="https://img.shields.io/badge/HTML%2C%20CSS%20e%20JS-Certificado-F7DF1E?style=for-the-badge" alt="HTML CSS JS"/>
+    <img src="https://img.shields.io/badge/Git%20e%20GitHub-Certificado-F05032?style=for-the-badge" alt="Git GitHub"/>
+    <!-- Curso atual -->
+    <img src="https://img.shields.io/badge/React-Em%20Curso-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  </p>
+</div>
+
