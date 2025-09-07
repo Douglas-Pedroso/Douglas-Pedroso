@@ -1,6 +1,6 @@
 <p align="center">
   <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
-  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
+  <p style="font-family: 'Segoe UI', sans-serif; font-size:16px;">Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -47,12 +47,12 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>GitHub Stats</h4>
+      <td align="center" style="border:2px solid #FF6F00; border-radius:15px; padding:15px; box-shadow: 3px 3px 15px rgba(0,0,0,0.2); background-color:#1E1E1E;">
+        <h4 style="color:#FF6F00;">GitHub Stats</h4>
         <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
-      <td align="center" style="border:1px solid #FF6F00; border-radius:10px; padding:10px;">
-        <h4>Top Languages</h4>
+      <td align="center" style="border:2px solid #FF6F00; border-radius:15px; padding:15px; box-shadow: 3px 3px 15px rgba(0,0,0,0.2); background-color:#1E1E1E;">
+        <h4 style="color:#FF6F00;">Top Languages</h4>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
