@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  ## 🔹 Skills
+  🔹 Skills
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  ## 🚀 Currently Learning
+  🚀 Aprendendo
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </p>
