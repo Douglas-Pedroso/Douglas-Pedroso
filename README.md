@@ -43,5 +43,12 @@
 <p align="center">
   ## 📊 Estatísticas
   <br>
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=tokyonight)
+  <!-- Estatísticas gerais -->
+  ![Douglas-Pedroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=tokyonight)
+  <br><br>
+  <!-- Linguagens mais usadas -->
+  ![Douglas-Pedroso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=tokyonight)
+  <br><br>
+  <!-- GitHub Trophy (opcional) -->
+  ![Douglas-Pedroso's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=tokyonight)
 </p>
