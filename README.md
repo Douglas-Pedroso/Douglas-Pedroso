@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>👋 Olá, me chamo Douglas</h1>
-  <p>Seja bem-vindo ao meu perfil!</p>
+  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
+  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -41,7 +41,8 @@
 ---
 
 <p align="center">
-  ## 📊 Estatísticas do GitHub
+  <h2>📊 Estatísticas do GitHub</h2>
+  <hr style="border:1px solid #FF6F00; width:50%;">
   <br>
   ![Douglas-Pedroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical)
   <br><br>
@@ -53,7 +54,8 @@
 ---
 
 <p align="center">
-  ## 📅 Contribuições & Atividade
+  <h2>📅 Contribuições & Atividade</h2>
+  <hr style="border:1px solid #FF6F00; width:50%;">
   <br>
   <!-- Heatmap -->
   ![Douglas-Pedroso's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Douglas-Pedroso&theme=react-dark)
