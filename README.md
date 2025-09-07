@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
-  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
+  <h1>👋 Olá, me chamo Douglas</h1>
+  <p>Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -41,25 +41,39 @@
 ---
 
 <p align="center">
-  <h2>📊 Estatísticas do GitHub</h2>
-  <hr style="border:1px solid #FF6F00; width:50%;">
-  <br>
-  ![Douglas-Pedroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical)
-  <br><br>
-  ![Douglas-Pedroso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical)
-  <br><br>
-  ![Douglas-Pedroso's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical)
+  ## 📊 Dashboards
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>GitHub Stats</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <h4>Top Languages</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>GitHub Trophy</h4>
+        <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Trophies" />
+      </td>
+      <td align="center">
+        <h4>Activity Graph</h4>
+        <img src="https://activity-graph.herokuapp.com/graph?username=Douglas-Pedroso&theme=react-dark" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 <p align="center">
-  <h2>📅 Contribuições & Atividade</h2>
-  <hr style="border:1px solid #FF6F00; width:50%;">
+  ## 🏆 Conquistas & Visitantes
   <br>
-  <!-- Heatmap -->
-  ![Douglas-Pedroso's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Douglas-Pedroso&theme=react-dark)
-  <br><br>
   <!-- GitHub Streak -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Pedroso&theme=radical)
   <br><br>
