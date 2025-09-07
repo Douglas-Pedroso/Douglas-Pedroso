@@ -7,7 +7,7 @@
 
 <div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#FFF8F0; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#FF6F00; font-weight:bold;">Contato</h2>
-  <p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/douglas-pedroso-pires-barros-8329b337b/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -17,10 +17,9 @@
   </p>
 </div>
 
-
 <div style="border:2px solid #4CAF50; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0FFF4; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#4CAF50; font-weight:bold;">Habilidades</h2>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -32,10 +31,9 @@
   </p>
 </div>
 
-
 <div style="border:2px solid #2196F3; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0F8FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#2196F3; font-weight:bold;">Atualmente Aprendendo</h2>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   </p>
 </div>
@@ -55,6 +53,3 @@
     </tr>
   </table>
 </div>
-
-
-
