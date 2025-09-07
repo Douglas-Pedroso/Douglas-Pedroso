@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>👋 Olá, me chamo Douglas</h1>
-  <p>Seja bem-vindo ao meu perfil!</p>
+  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
+  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -9,10 +9,10 @@
   ## 📫 Contato
   <br>
   <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://douglas-pedroso.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 <p align="center">
   ## 🚀 Currently Learning
   <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </p>
 
 ---
@@ -44,11 +44,11 @@
   ## 📊 Estatísticas
   <br>
   <!-- Estatísticas gerais do GitHub -->
-  ![Douglas-Pedroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
   <!-- Linguagens mais usadas -->
-  ![Douglas-Pedroso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
   <!-- GitHub Trophy -->
-  ![Douglas-Pedroso's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=tokyonight)
+  <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Trophies" />
 </p>
