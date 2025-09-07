@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold;">👋 Olá, me chamo Douglas</h1>
+  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold;">Olá, me chamo Douglas</h1>
   <p style="font-family: 'Segoe UI', sans-serif; font-size:16px;">Seja bem-vindo ao meu perfil!</p>
 </p>
 
