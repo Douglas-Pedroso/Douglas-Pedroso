@@ -20,16 +20,18 @@
 
 <div style="border:2px solid #4CAF50; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0FFF4; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#4CAF50; font-weight:bold;">Habilidades</h2>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </p>
 </div>
+
 
 <div style="border:2px solid #2196F3; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0F8FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#2196F3; font-weight:bold;">Atualmente Aprendendo</h2>
