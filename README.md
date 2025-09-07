@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 style="font-family: 'Segoe UI', sans-serif;">👋 Olá, me chamo Douglas</h1>
-  <p style="font-family: 'Segoe UI', sans-serif;">Seja bem-vindo ao meu perfil!</p>
+  <h1>👋 Olá, me chamo Douglas</h1>
+  <p>Seja bem-vindo ao meu perfil!</p>
 </p>
 
 ---
@@ -41,14 +41,26 @@
 ---
 
 <p align="center">
-  ## 📊 Estatísticas
+  ## 📊 Estatísticas do GitHub
   <br>
-  <!-- Estatísticas gerais do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![Douglas-Pedroso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical)
   <br><br>
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
+  ![Douglas-Pedroso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical)
   <br><br>
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical" alt="Trophies" />
+  ![Douglas-Pedroso's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Douglas-Pedroso&theme=radical)
+</p>
+
+---
+
+<p align="center">
+  ## 📅 Contribuições & Atividade
+  <br>
+  <!-- Heatmap -->
+  ![Douglas-Pedroso's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Douglas-Pedroso&theme=react-dark)
+  <br><br>
+  <!-- GitHub Streak -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Pedroso&theme=radical)
+  <br><br>
+  <!-- Visitor Badge -->
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Douglas-Pedroso)
 </p>
