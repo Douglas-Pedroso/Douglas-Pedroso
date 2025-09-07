@@ -31,7 +31,7 @@
 </div>
 
 <div style="border:2px solid #FF6F00; border-radius:10px; padding:15px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#f9f9f9;">
-  <h2 style="color:#FF6F00; font-weight:bold;">🚀 Atualmente Aprendendo</h2>
+  <h2 style="color:#FF6F00; font-weight:bold;">Aprendendo</h2>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   </p>
