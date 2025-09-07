@@ -6,7 +6,7 @@
 ---
 
 <div style="border:2px solid #FF6F00; border-radius:10px; padding:15px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#f9f9f9;">
-  <h2 style="color:#FF6F00; font-weight:bold;">📫 Contato</h2>
+  <h2 style="color:#FF6F00; font-weight:bold;">Contato</h2>
   <p>
     <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,7 +18,7 @@
 </div>
 
 <div style="border:2px solid #FF6F00; border-radius:10px; padding:15px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#f9f9f9;">
-  <h2 style="color:#FF6F00; font-weight:bold;">🔹 Skills</h2>
+  <h2 style="color:#FF6F00; font-weight:bold;">Skills</h2>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -38,7 +38,7 @@
 </div>
 
 <div style="border:2px solid #FF6F00; border-radius:10px; padding:15px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#f9f9f9;">
-  <h2 style="color:#FF6F00; font-weight:bold;">📊 Dashboard</h2>
+  <h2 style="color:#FF6F00; font-weight:bold;">Dashboard</h2>
   <table>
     <tr>
       <td align="center" style="border:1px solid #FF6F00; border-radius:15px; padding:15px; box-shadow: 3px 3px 15px rgba(0,0,0,0.2); background-color:#1E1E1E;">
@@ -46,7 +46,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Pedroso&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
       <td align="center" style="border:1px solid #FF6F00; border-radius:15px; padding:15px; box-shadow: 3px 3px 15px rgba(0,0,0,0.2); background-color:#1E1E1E;">
-        <h4 style="color:#FF6F00; font-weight:bold;">Top Languages</h4>
+        <h4 style="color:#FF6F00; font-weight:bold;">Linguagens mais usadas</h4>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
