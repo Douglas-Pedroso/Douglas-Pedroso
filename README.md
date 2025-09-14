@@ -33,7 +33,6 @@
 
 <div style="border:2px solid #2196F3; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0F8FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#2196F3; font-weight:bold;">Atualmente Aprendendo</h2>
-  <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   </p>
