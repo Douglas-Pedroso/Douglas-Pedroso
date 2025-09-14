@@ -35,6 +35,7 @@
   <h2 style="color:#2196F3; font-weight:bold;">Atualmente Aprendendo</h2>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   </p>
 </div>
 
