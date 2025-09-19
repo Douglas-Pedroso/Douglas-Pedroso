@@ -33,11 +33,16 @@
 
 <div style="border:2px solid #2196F3; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0F8FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#2196F3; font-weight:bold;">Atualmente Aprendendo</h2>
+  <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </p>
 </div>
+
 
 <div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; font-family: 'Segoe UI', sans-serif; background-color:#1E1E1E; box-shadow: 0 4px 15px rgba(0,0,0,0.2); color:#FFF;">
   <h2 style="color:#FF6F00; font-weight:bold; text-align:center;">Dashboard</h2>
