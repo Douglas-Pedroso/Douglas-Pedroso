@@ -52,7 +52,7 @@
       </td>
       <td align="center" style="border:1px solid #FF6F00; border-radius:15px; padding:15px; box-shadow: 3px 3px 15px rgba(0,0,0,0.3); background-color:#2E2E2E;">
         <h4 style="color:#FF6F00; font-weight:bold;">Top Languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Pedroso&layout=compact&theme=radical" alt="Top Languages"/>
       </td>
     </tr>
   </table>
