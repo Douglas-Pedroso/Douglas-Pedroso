@@ -1,6 +1,9 @@
 <p>
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold; color:#FF6F00;">Douglas Pedroso</h1>
-  <p style="font-family: 'Segoe UI', sans-serif; font-size:16px; color:#333;">Bem-vindo ao meu perfil do GitHub. Para mais detalhes acesse o meu <a href= https://douglas-pedroso.github.io/Portfolio/>Portifólio.</a>  <p align="center">
+  <p style="font-family: 'Segoe UI', sans-serif; font-size:16px; color:#333;">
+    Bem-vindo ao meu perfil do GitHub. Para mais detalhes acesse o meu 
+    <a href="https://douglas-pedroso.github.io/Portfolio/">Portifólio.</a>
+  </p>
 </p>
 
 ---
@@ -36,11 +39,24 @@
 
 <div style="border:2px solid #2196F3; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0F8FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <h2 style="color:#2196F3; font-weight:bold;">Atualmente Aprendendo</h2>
+  <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   </p>
-</div>
 
+  <h3 style="color:#0A66C2;">📘 Python for Data Science, AI & Development (IBM / Coursera)</h3>
+  <p style="font-size:15px; color:#333;">
+    Atualmente estudando o curso <strong><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank">Python for Data Science, AI & Development</a></strong> da IBM na plataforma Coursera.<br><br>
+    <strong>Conteúdos em progresso:</strong>
+    <ul style="margin-left:20px;">
+      <li>Fundamentos e sintaxe do Python</li>
+      <li>Manipulação de dados com listas, tuplas e dicionários</li>
+      <li>Bibliotecas: <code>NumPy</code> e <code>Pandas</code></li>
+      <li>Operações e análises com DataFrames</li>
+      <li>Introdução à Inteligência Artificial e Machine Learning</li>
+    </ul>
+  </p>
+</div>
 
 <div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; font-family: 'Segoe UI', sans-serif; background-color:#1E1E1E; box-shadow: 0 4px 15px rgba(0,0,0,0.2); color:#FFF;">
   <h2 style="color:#FF6F00; font-weight:bold; text-align:center;">Dashboard</h2>
@@ -57,5 +73,3 @@
     </tr>
   </table>
 </div>
-</p>
-</p>
