@@ -1,8 +1,7 @@
 <p align="center">
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:bold; color:#FF6F00;">Douglas Pedroso</h1>
   <p style="font-family: 'Segoe UI', sans-serif; font-size:16px; color:#333;">
-    Bem-vindo ao meu perfil do GitHub. Para mais detalhes, acesse meu 
-    <a href="https://douglas-pedroso.github.io/Portfolio/">Portfólio</a>.
+    Bem-vindo ao meu perfil do GitHub. Para mais detalhes, acesse meu <a href="https://douglas-pedroso.github.io/Portfolio/">Portfólio</a>.
   </p>
 </p>
 
@@ -22,63 +21,58 @@
 </div>
 
 <!-- Linguagens -->
-<div style="border:2px solid #4CAF50; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0FFF4; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  <h2 style="color:#4CAF50; font-weight:bold;">Linguagens</h2>
-  <p>
+<details>
+  <summary style="font-family:'Segoe UI', sans-serif; font-weight:bold; color:#2196F3; cursor:pointer;">Linguagens</summary>
+  <div style="margin-top:10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </p>
-</div>
+  </div>
+</details>
 
-<!-- Frameworks / Engines -->
-<div style="border:2px solid #2196F3; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F0F8FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  <h2 style="color:#2196F3; font-weight:bold;">Frameworks / Engines</h2>
-  <p>
+<!-- Frameworks / Ferramentas -->
+<details>
+  <summary style="font-family:'Segoe UI', sans-serif; font-weight:bold; color:#4CAF50; cursor:pointer;">Frameworks / Ferramentas</summary>
+  <div style="margin-top:10px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  </p>
-</div>
+  </div>
+</details>
 
 <!-- Bibliotecas Python -->
-<div style="border:2px solid #FF5722; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#FFF8F0; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  <h2 style="color:#FF5722; font-weight:bold;">Bibliotecas Python</h2>
-  <p>
+<details>
+  <summary style="font-family:'Segoe UI', sans-serif; font-weight:bold; color:#FF5722; cursor:pointer;">Bibliotecas Python</summary>
+  <div style="margin-top:10px;">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/BeautifulSoup4-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
     <img src="https://img.shields.io/badge/Requests-0059B3?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
-    <img src="https://img.shields.io/badge/Certifi-0080FF?style=for-the-badge&logo=python&logoColor=white" alt="Certifi"/>
-    <img src="https://img.shields.io/badge/Charset_Normalizer-FF4500?style=for-the-badge&logo=python&logoColor=white" alt="Charset Normalizer"/>
-    <img src="https://img.shields.io/badge/IDNA-800080?style=for-the-badge&logo=python&logoColor=white" alt="IDNA"/>
-    <img src="https://img.shields.io/badge/Python-Dateutil-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="Python Dateutil"/>
-    <img src="https://img.shields.io/badge/Pytz-008080?style=for-the-badge&logo=python&logoColor=white" alt="Pytz"/>
-    <img src="https://img.shields.io/badge/Six-800000?style=for-the-badge&logo=python&logoColor=white" alt="Six"/>
-    <img src="https://img.shields.io/badge/Soupsieve-FF1493?style=for-the-badge&logo=python&logoColor=white" alt="Soupsieve"/>
-    <img src="https://img.shields.io/badge/Typing_Extensions-9400D3?style=for-the-badge&logo=python&logoColor=white" alt="Typing Extensions"/>
-    <img src="https://img.shields.io/badge/Tzdata-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="Tzdata"/>
-    <img src="https://img.shields.io/badge/urllib3-000080?style=for-the-badge&logo=python&logoColor=white" alt="urllib3"/>
-  </p>
-</div>
+  </div>
+</details>
 
-<!-- Ferramentas / Versionamento -->
-<div style="border:2px solid #9C27B0; border-radius:12px; padding:20px; margin-bottom:20px; font-family: 'Segoe UI', sans-serif; background-color:#F8F0FF; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  <h2 style="color:#9C27B0; font-weight:bold;">Ferramentas / Versionamento</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </p>
-</div>
+<!-- Atualmente Aprendendo -->
+<details>
+  <summary style="font-family:'Segoe UI', sans-serif; font-weight:bold; color:#9C27B0; cursor:pointer;">Atualmente Aprendendo</summary>
+  <div style="margin-top:10px;">
+    <p style="font-family:'Segoe UI', sans-serif; font-size:14px; color:#333;">
+      Curso: <b>Python for Applied Data Science and AI - Coursera</b>
+    </p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
+  </div>
+</details>
 
 <!-- Dashboard -->
-<div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; font-family: 'Segoe UI', sans-serif; background-color:#1E1E1E; box-shadow: 0 4px 15px rgba(0,0,0,0.2); color:#FFF;">
+<div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; font-family: 'Segoe UI', sans-serif; background-color:#1E1E1E; box-shadow: 0 4px 15px rgba(0,0,0,0.2); color:#FFF; margin-top:20px;">
   <h2 style="color:#FF6F00; font-weight:bold; text-align:center;">Dashboard</h2>
   <table style="width:100%; margin-top:15px;">
     <tr>
