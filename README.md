@@ -47,13 +47,26 @@
 </details>
 
 <details>
-  <summary>📚 Atualmente Aprendendo</summary>
+  <summary>📚 Atualmente Aprendendo / Bibliotecas Python</summary>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup4-FF9900?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup"/>
+    <img src="https://img.shields.io/badge/Requests-00557F?style=for-the-badge&logo=requests&logoColor=white" alt="Requests"/>
+    <img src="https://img.shields.io/badge/Certifi-3F51B5?style=for-the-badge" alt="Certifi"/>
+    <img src="https://img.shields.io/badge/charset--normalizer-9C27B0?style=for-the-badge" alt="charset-normalizer"/>
+    <img src="https://img.shields.io/badge/idna-009688?style=for-the-badge" alt="idna"/>
+    <img src="https://img.shields.io/badge/python-dateutil-607D8B?style=for-the-badge" alt="python-dateutil"/>
+    <img src="https://img.shields.io/badge/pytz-795548?style=for-the-badge" alt="pytz"/>
+    <img src="https://img.shields.io/badge/six-FF5722?style=for-the-badge" alt="six"/>
+    <img src="https://img.shields.io/badge/soupsieve-673AB7?style=for-the-badge" alt="soupsieve"/>
+    <img src="https://img.shields.io/badge/typing_extensions-607D8B?style=for-the-badge" alt="typing_extensions"/>
+    <img src="https://img.shields.io/badge/tzdata-009688?style=for-the-badge" alt="tzdata"/>
+    <img src="https://img.shields.io/badge/urllib3-00796B?style=for-the-badge" alt="urllib3"/>
   </p>
 </details>
+
 
 ---
 
