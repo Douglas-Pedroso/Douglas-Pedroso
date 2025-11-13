@@ -67,6 +67,7 @@
     </p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup4-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
   </div>
 </details>
