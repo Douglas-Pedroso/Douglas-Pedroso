@@ -61,17 +61,22 @@
 
 <!-- Atualmente Aprendendo -->
 <details>
-  <summary style="font-family:'Segoe UI', sans-serif; font-weight:bold; color:#9C27B0; cursor:pointer;">Atualmente Aprendendo</summary>
+  <summary style="font-family:'Segoe UI', sans-serif; font-weight:bold; color:#9C27B0; cursor:pointer;">
+    Atualmente Aprendendo
+  </summary>
   <div style="margin-top:10px;">
     <p style="font-family:'Segoe UI', sans-serif; font-size:14px; color:#333;">
       Curso: <b>Python for Applied Data Science and AI - Coursera</b>
     </p>
+
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/BeautifulSoup4-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   </div>
 </details>
+
 
 <!-- Dashboard -->
 <div style="border:2px solid #FF6F00; border-radius:12px; padding:20px; font-family: 'Segoe UI', sans-serif; background-color:#1E1E1E; box-shadow: 0 4px 15px rgba(0,0,0,0.2); color:#FFF; margin-top:20px;">
