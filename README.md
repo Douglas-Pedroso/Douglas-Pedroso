@@ -101,6 +101,8 @@
       alt="NumPy"
     />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+
   </div>
 </details>
 
